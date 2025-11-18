@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MathEd R",
+  "description": "A modern, responsive repository for Mathematics Education research papers with search and PDF preview capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
